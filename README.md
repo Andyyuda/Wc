@@ -1,7 +1,7 @@
 # Wildcard Auto Script
 
 Script ini digunakan untuk mengotomatisasi konfigurasi wildcard secara cepat di VPS.
-
+![Preview Script](https://raw.githubusercontent.com/Andyyuda/Wc/main/andy.jpg)
 ## Instalasi & Eksekusi Otomatis
 
 Jalankan salah satu perintah di bawah ini di VPS Anda:
