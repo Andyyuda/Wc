@@ -8,7 +8,7 @@ Jalankan salah satu perintah di bawah ini di VPS Anda:
 
 **Menggunakan `curl`:**
 ```bash
-curl -sLO https://raw.githubusercontent.com/Andyyuda/Wc/main/wildcard_auto.sh && chmod +x wildcard_auto.sh && ./wildcard_auto.sh &
+curl -sLO https://raw.githubusercontent.com/Andyyuda/Wc/main/wildcard_auto.sh && chmod +x wildcard_auto.sh && ./wildcard_auto.sh
 ```
 
 **Menggunakan `wget`:**
